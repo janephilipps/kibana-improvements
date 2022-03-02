@@ -1,0 +1,12 @@
+div.euiPanel.euiPopover__panel.euiPopover__panel--bottom.euiPopover__panel-isOpen.euiPopover__panel-withTitle
+  > div:nth-child(2)
+  > div.euiFlexItem.euiFlexItem--flexGrowZero
+  > div {
+  width: 600px;
+}
+
+div.euiPanel.euiPopover__panel.euiPopover__panel--bottom.euiPopover__panel-isOpen.euiPopover__panel-withTitle
+  div.euiFlexGroup.euiFlexGroup--gutterSmall.euiFlexGroup--directionRow
+  div.euiFlexItem {
+  max-width: 300px;
+}

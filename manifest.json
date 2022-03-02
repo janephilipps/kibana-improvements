@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+
+  "name": "Modify Kibana CSS",
+  "version": "0.1.0",
+  "description": "Tool for making Kibana easier to use",
+
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "matches": ["https://search-visibility-es2-*"]
+    }
+  ]
+}
