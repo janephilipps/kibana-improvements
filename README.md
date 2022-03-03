@@ -1,6 +1,9 @@
 # kibana-improvements
 
-Chrome extension to override CSS on Kibana in order to see full names of field options in filter dropdown.
+Chrome extension to override CSS on Kibana in order to:
+
+- See full names of field options in filter dropdown
+- See full stacktrace for easier copying out
 
 Example reference: https://www.lateral.io/resources-blog/create-chrome-extension-modify-websites-html-css
 
