@@ -12,5 +12,5 @@ div.euiPanel.euiPopover__panel.euiPopover__panel--bottom.euiPopover__panel-isOpe
 }
 
 div[data-test-subj="tableDocViewRow-payload.stacktrace-value"] {
-  max-height: none;
+  max-height: none !important;
 }
