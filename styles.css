@@ -10,3 +10,7 @@ div.euiPanel.euiPopover__panel.euiPopover__panel--bottom.euiPopover__panel-isOpe
   div.euiFlexItem {
   max-width: 300px !important;
 }
+
+div[data-test-subj="tableDocViewRow-payload.stacktrace-value"] {
+  max-height: none;
+}
